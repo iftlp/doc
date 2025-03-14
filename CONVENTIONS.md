@@ -2,7 +2,7 @@
 
 ## Branch naming
 
-`type`/`#issuesNb`-`description`
+`type`/`#issueNb`-`description`
 
 types:
 
