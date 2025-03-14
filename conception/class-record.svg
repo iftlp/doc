@@ -1,0 +1,303 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="457.28076171875" height="430">
+    <defs />
+    <g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 189 361 L 163 314" stroke-miterlimit="10" stroke-dasharray="3" />
+        </g>
+        <g>
+            <path fill="#FFFFFF" stroke="none" paint-order="stroke fill markers"
+                d=" M 180.2056596145241 327.71004293316156 L 163 314 L 165.47177425982028 335.8607029166148" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 180.2056596145241 327.71004293316156 L 163 314 L 165.47177425982028 335.8607029166148 L 180.2056596145241 327.71004293316156"
+                stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <rect fill="#C0C0C0" stroke="none" x="343" y="455" width="264.01416015625" height="58"
+                transform="matrix(1 0 0 1 -262 -86)" fill-opacity="0.2" />
+        </g>
+        <g>
+            <rect fill="#ffffff" stroke="none" x="336" y="448" width="264.01416015625" height="58"
+                transform="matrix(1 0 0 1 -262 -86)" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 74 362 L 338.01416015625 362 L 338.01416015625 420 L 74 420 L 74 362 Z Z"
+                stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 74 387 L 338.01416015625 387" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 74 397 L 338.01416015625 397" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="bold" text-decoration="undefined"
+                    x="468.507080078125" y="461.5" text-anchor="middle" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">Mp3ToWavConverter</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined" x="341"
+                    y="494.5" text-anchor="start" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">+convert(audioData: AudioData): AudioData</text>
+            </g>
+        </g>
+        <g>
+            <rect fill="#C0C0C0" stroke="none" x="279" y="335" width="264.01416015625" height="71"
+                transform="matrix(1 0 0 1 -262 -86)" fill-opacity="0.2" />
+        </g>
+        <g>
+            <rect fill="#ffffff" stroke="none" x="272" y="328" width="264.01416015625" height="71"
+                transform="matrix(1 0 0 1 -262 -86)" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 10 242 L 274.01416015625 242 L 274.01416015625 313 L 10 313 L 10 242 Z Z"
+                stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 10 280 L 274.01416015625 280" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 10 290 L 274.01416015625 290" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined"
+                    x="404.507080078125" y="339.5" text-anchor="middle" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">«interface»</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="bold" text-decoration="undefined"
+                    x="404.507080078125" y="354.5" text-anchor="middle" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">AudioConverter</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined" x="277"
+                    y="387.5" text-anchor="start" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">+convert(audioData: AudioData): AudioData</text>
+            </g>
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 231 205 L 186 241" stroke-miterlimit="10" stroke-dasharray="3" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 191.306050922054 231.36434622806684 L 186 241 L 196.5653807116052 237.93850846500584"
+                stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <rect fill="#C0C0C0" stroke="none" x="455" y="239" width="164.27978515625" height="58"
+                transform="matrix(1 0 0 1 -262 -86)" fill-opacity="0.2" />
+        </g>
+        <g>
+            <rect fill="#ffffff" stroke="none" x="448" y="232" width="164.27978515625" height="58"
+                transform="matrix(1 0 0 1 -262 -86)" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 186 146 L 350.27978515625 146 L 350.27978515625 204 L 186 204 L 186 146 Z Z"
+                stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 186 171 L 350.27978515625 171" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 186 181 L 350.27978515625 181" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="bold" text-decoration="undefined"
+                    x="530.639892578125" y="245.5" text-anchor="middle" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">AudioRecorder</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined" x="453"
+                    y="278.5" text-anchor="start" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">+recordAudio(): AudioData</text>
+            </g>
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 304 205 L 338 233" stroke-miterlimit="10" stroke-dasharray="3" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 327.47910303410777 229.78896791777476 L 338 233 L 332.83114497120164 223.29005985130362"
+                stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <rect fill="#C0C0C0" stroke="none" x="607" y="327" width="108.28076171875" height="88"
+                transform="matrix(1 0 0 1 -262 -86)" fill-opacity="0.2" />
+        </g>
+        <g>
+            <rect fill="#ffffff" stroke="none" x="600" y="320" width="108.28076171875" height="88"
+                transform="matrix(1 0 0 1 -262 -86)" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 338 234 L 446.28076171875 234 L 446.28076171875 322 L 338 322 L 338 234 Z Z"
+                stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 338 259 L 446.28076171875 259" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 338 312 L 446.28076171875 312" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="bold" text-decoration="undefined"
+                    x="654.640380859375" y="333.5" text-anchor="middle" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">AudioData</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined" x="605"
+                    y="356.5" text-anchor="start" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">-data: List&lt;Byte&gt;</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined" x="605"
+                    y="371.5" text-anchor="start" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">-duration: float</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined" x="605"
+                    y="386.5" text-anchor="start" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">-format: string</text>
+            </g>
+        </g>
+        <g>
+            <rect fill="#C0C0C0" stroke="none" x="439" y="103" width="196.04345703125" height="73"
+                transform="matrix(1 0 0 1 -262 -86)" fill-opacity="0.2" />
+        </g>
+        <g>
+            <rect fill="#ffffff" stroke="none" x="432" y="96" width="196.04345703125" height="73"
+                transform="matrix(1 0 0 1 -262 -86)" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 170 10 L 366.04345703125 10 L 366.04345703125 83 L 170 83 L 170 10 Z Z"
+                stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 170 35 L 366.04345703125 35" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 170 45 L 366.04345703125 45" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="bold" text-decoration="undefined"
+                    x="530.521728515625" y="109.5" text-anchor="middle" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">ShizimaService</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined" x="437"
+                    y="142.5" text-anchor="start" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">+searchSong(): Song?</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined" x="437"
+                    y="157.5" text-anchor="start" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">+getUserHistory(): List&lt;Search&gt;</text>
+            </g>
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 268 84 L 268 145" stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+                d=" M 263.790482243984 134.83732514237585 L 268 145 L 272.209517756016 134.83732514237585"
+                stroke-miterlimit="10" stroke-dasharray="" />
+        </g>
+        <g>
+            <rect fill="#ffffff" stroke="none" x="431" y="192" width="92.8662109375" height="13"
+                transform="matrix(1 0 0 1 -262 -86)" />
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined"
+                    x="477.43310546875" y="198.5" text-anchor="middle" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">-audioRecorder</text>
+            </g>
+        </g>
+        <g>
+            <rect fill="#ffffff" stroke="none" x="540" y="210" width="7.22998046875" height="13"
+                transform="matrix(1 0 0 1 -262 -86)" />
+        </g>
+        <g>
+            <g>
+                <path fill="none" stroke="none" />
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px"
+                    font-style="normal" font-weight="normal" text-decoration="undefined"
+                    x="543.614990234375" y="216.5" text-anchor="middle" dominant-baseline="central"
+                    transform="matrix(1 0 0 1 -262 -86)">1</text>
+            </g>
+        </g>
+    </g>
+</svg>
